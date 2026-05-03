@@ -3,7 +3,7 @@ pipeline {
 
     tools {
        maven 'mymvm'
-       jdk 'myjava'
+       jdk 'javac'
     }
   
     stages {
